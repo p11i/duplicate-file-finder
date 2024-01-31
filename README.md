@@ -32,8 +32,8 @@ Specify a different directory and hashing method:
 ```
 
 ## Options
-`-dir`: Root directory to search for duplicate files. Default is the current directory.
-`-hash`: Hashing method to use (md5 or sha256). Default is md5.
+- `-dir`: Root directory to search for duplicate files. Default is the current directory.
+- `-hash`: Hashing method to use (md5 or sha256). Default is md5.
 
 ## Testing
 To run tests, use the following command:
