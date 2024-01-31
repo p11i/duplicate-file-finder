@@ -12,7 +12,7 @@ A simple command-line tool written in Go to find duplicate files in a specified 
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/duplicate-file-finder.git
+git clone https://github.com/p11i/duplicate-file-finder.git
 cd duplicate-file-finder
 ```
 
